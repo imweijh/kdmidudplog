@@ -79,3 +79,8 @@ watch "redis-cli -p 7379 LLEN logstash"
 watch "netstat -us|grep packet"
 ```
 ![image](https://user-images.githubusercontent.com/23710675/117418758-5f882580-af4e-11eb-9428-241282c46766.png)
+
+
+![image](https://user-images.githubusercontent.com/23710675/117530186-56f72400-b00e-11eb-9a1f-b0be713633a4.png)
+
+
