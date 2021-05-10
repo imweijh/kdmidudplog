@@ -1,4 +1,4 @@
-# 使用logstash处理金证mid日志
+# 使用logstash处理金证mid日志，严禁商用
 金证mid支持udp日志，配置
 cfglog.dat 如下，日志以udp发往 127.0.0.1:5143 端口：
 ```
