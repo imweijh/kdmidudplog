@@ -84,3 +84,7 @@ watch "netstat -us|grep packet"
 ![image](https://user-images.githubusercontent.com/23710675/117530186-56f72400-b00e-11eb-9a1f-b0be713633a4.png)
 
 
+ELK、Elastic Stack、logstash 等是 Elasticsearch BV.公司商标
+https://www.elastic.co/legal/trademarks
+
+
